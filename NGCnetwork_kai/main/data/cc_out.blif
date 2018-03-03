@@ -1,0 +1,87 @@
+# Benchmark "cc" written by ABC on Thu Feb  1 19:32:10 2018
+.model cc
+.inputs a b c d e f g h i j k l m o p q r s t u v
+.outputs w x y z a0 b0 c0 d0 e0 f0 g0 h0 i0 j0 k0 l0 m0 n0 o0 p0
+.names l v w
+11 1
+.names p n45 x
+01 1
+.names n46 q n45
+11 1
+.names i k n46
+11 1
+.names p n48 n49 y
+-11 1
+1-1 1
+.names q k i n48
+011 1
+.names l m n49
+01 1
+.names p m n45 z
+011 1
+.names i j f0
+11 1
+.names n53 n54 m i0
+001 1
+.names n48 o n53
+00 1
+.names a q n46 n54
+001 1
+.names n56 n57 m j0
+001 1
+.names q n46 p n56
+-00 1
+0-0 1
+.names q b n46 n57
+011 1
+.names n45 n59 m k0
+001 1
+.names c n46 q n59
+-00 1
+0-0 1
+.names n61 n62 m l0
+001 1
+.names r p n48 n61
+-10 1
+0-0 1
+.names d q n46 n62
+001 1
+.names n64 n65 m m0
+001 1
+.names n48 s n64
+00 1
+.names e q n46 n65
+001 1
+.names n67 n68 m n0
+001 1
+.names n48 t n67
+00 1
+.names f q n46 n68
+001 1
+.names n70 n71 m o0
+001 1
+.names n48 u n70
+00 1
+.names g q n46 n71
+001 1
+.names n73 n74 m p0
+001 1
+.names n48 v n73
+00 1
+.names h q n46 n74
+001 1
+.names t a0
+0 1
+.names f0 g0
+0 1
+.names u b0
+1 1
+.names q c0
+1 1
+.names s d0
+1 1
+.names r e0
+1 1
+.names p h0
+1 1
+.end

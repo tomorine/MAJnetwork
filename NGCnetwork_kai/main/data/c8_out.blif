@@ -1,0 +1,150 @@
+# Benchmark "c8" written by ABC on Thu Feb  1 19:32:10 2018
+.model c8
+.inputs a b c d e f g h i j k l m n o p q r s u v w x y z a0 b0 c0
+.outputs d0 e0 f0 g0 h0 i0 j0 k0 l0 m0 n0 o0 p0 q0 r0 s0 t0 u0
+.names u i c0 d0
+-01 1
+0-0 1
+.names v j c0 e0
+-01 1
+0-0 1
+.names w k c0 f0
+-01 1
+0-0 1
+.names x l c0 g0
+-01 1
+0-0 1
+.names y m c0 h0
+-01 1
+0-0 1
+.names z n c0 i0
+-01 1
+0-0 1
+.names a0 o c0 j0
+-01 1
+0-0 1
+.names b0 p c0 k0
+-01 1
+0-0 1
+.names n57 n59 m0
+00 1
+.names s a n58 n57
+-01 1
+0-1 1
+.names s i q n58
+-00 1
+1-0 1
+.names r u q n59
+011 1
+101 1
+.names n61 q n63 n0
+--1 1
+01- 1
+.names n62 v n61
+00 1
+11 1
+.names r u n62
+00 1
+.names s b n64 n63
+-11 1
+0-1 1
+.names s j q n64
+-10 1
+1-0 1
+.names n66 n69 o0
+00 1
+.names n67 n68 q n66
+001 1
+.names v n62 w n67
+-01 1
+1-1 1
+.names v w n62 n68
+001 1
+.names s c n70 n69
+-01 1
+0-1 1
+.names s k q n70
+-00 1
+1-0 1
+.names n72 n73 p0
+00 0
+.names n68 x q n72
+011 1
+101 1
+.names s d n74 n73
+-11 1
+0-1 1
+.names s l q n74
+-10 1
+1-0 1
+.names n76 n80 q0
+00 1
+.names n77 n78 q n76
+001 1
+.names x n68 y n77
+-01 1
+1-1 1
+.names n68 n79 n78
+11 1
+.names x y n79
+00 1
+.names s e n81 n80
+-01 1
+0-1 1
+.names s m q n81
+-00 1
+1-0 1
+.names n83 n84 r0
+00 0
+.names n78 z q n83
+011 1
+101 1
+.names s f n85 n84
+-11 1
+0-1 1
+.names s n q n85
+-10 1
+1-0 1
+.names n88 n87 n91 s0
+-10 1
+0-0 1
+.names z n78 a0 n87
+-01 1
+1-1 1
+.names n89 q n88
+01 1
+.names n68 n90 n89
+11 1
+.names z a0 n79 n90
+001 1
+.names s g n92 n91
+-01 1
+0-1 1
+.names s o q n92
+-00 1
+1-0 1
+.names n94 n95 t0
+00 0
+.names n89 b0 q n94
+011 1
+101 1
+.names s h n96 n95
+-11 1
+0-1 1
+.names s p q n96
+-10 1
+1-0 1
+.names n98 q u0
+01 1
+.names n99 n90 n101 n98
+-00 1
+0-0 1
+.names v w n100 n99
+001 1
+.names r b0 u n100
+001 1
+.names r c0 n101
+11 1
+.names c0 l0
+1 1
+.end

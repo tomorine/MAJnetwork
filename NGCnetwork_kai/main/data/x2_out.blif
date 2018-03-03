@@ -1,0 +1,51 @@
+# Benchmark "x2" written by ABC on Thu Feb  1 19:32:21 2018
+.model x2
+.inputs a b c d e f g h i j
+.outputs k l m n o p q
+.names j i h k
+011 0
+.names i h j l
+000 0
+011 0
+.names h i j m
+000 1
+.names n23 n25 n
+11 0
+.names c h n24 n23
+001 1
+.names j i n24
+01 1
+.names a b n25
+00 1
+.names n27 g h o
+011 0
+.names i j n27
+11 1
+.names n29 n32 n34 p
+001 0
+.names n31 n30 h n29
+-11 1
+1-1 1
+.names n25 n27 c n30
+111 1
+.names e j d n31
+001 1
+.names j n33 i n32
+-10 1
+0-0 1
+.names h c n25 n33
+011 1
+.names n35 g n34
+01 1
+.names h f n27 n35
+011 1
+.names n37 n34 l q
+011 0
+.names n39 n38 h n37
+-11 1
+1-1 1
+.names c n25 j n38
+011 1
+.names n24 d e n39
+111 1
+.end

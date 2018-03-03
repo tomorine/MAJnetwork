@@ -1,0 +1,150 @@
+# Benchmark "ADDERFDS" written by ABC on Thu Feb  1 19:32:18 2018
+.model ADDERFDS
+.inputs a b c d e f g h i j k l m n o p q r s t u v w x y z a0 b0 c0 d0 e0 \
+ f0 g0
+.outputs h0 i0 j0 k0 l0 m0 n0 o0 p0 q0 r0 s0 t0 u0 v0 w0 x0
+.names n53 a q h0
+000 1
+011 1
+101 1
+110 1
+.names n54 b r n53
+-00 1
+1-0 1
+10- 1
+.names n55 c s n54
+-00 1
+1-0 1
+10- 1
+.names n56 d t n55
+-00 1
+1-0 1
+10- 1
+.names n57 e u n56
+-00 1
+1-0 1
+10- 1
+.names n58 f v n57
+-00 1
+1-0 1
+10- 1
+.names n59 g w n58
+-00 1
+1-0 1
+10- 1
+.names n60 h x n59
+-00 1
+1-0 1
+10- 1
+.names n61 i y n60
+-00 1
+1-0 1
+10- 1
+.names n62 j z n61
+-00 1
+1-0 1
+10- 1
+.names n63 k a0 n62
+-00 1
+1-0 1
+10- 1
+.names n64 l b0 n63
+-00 1
+1-0 1
+10- 1
+.names n65 m c0 n64
+-00 1
+1-0 1
+10- 1
+.names n66 n d0 n65
+-00 1
+1-0 1
+10- 1
+.names n67 o e0 n66
+-00 1
+1-0 1
+10- 1
+.names p f0 g0 n67
+-00 1
+0-0 1
+00- 1
+.names n54 b r i0
+000 1
+011 1
+101 1
+110 1
+.names n55 c s j0
+000 1
+011 1
+101 1
+110 1
+.names n56 d t k0
+000 1
+011 1
+101 1
+110 1
+.names n57 e u l0
+000 1
+011 1
+101 1
+110 1
+.names n58 f v m0
+000 1
+011 1
+101 1
+110 1
+.names n59 g w n0
+000 1
+011 1
+101 1
+110 1
+.names n60 h x o0
+000 1
+011 1
+101 1
+110 1
+.names n61 i y p0
+000 1
+011 1
+101 1
+110 1
+.names n62 j z q0
+000 1
+011 1
+101 1
+110 1
+.names n63 k a0 r0
+000 1
+011 1
+101 1
+110 1
+.names n64 l b0 s0
+000 1
+011 1
+101 1
+110 1
+.names n65 m c0 t0
+000 1
+011 1
+101 1
+110 1
+.names n66 n d0 u0
+000 1
+011 1
+101 1
+110 1
+.names n67 o e0 v0
+000 1
+011 1
+101 1
+110 1
+.names p f0 g0 w0
+001 1
+010 1
+100 1
+111 1
+.names n53 a q x0
+-11 1
+0-1 1
+01- 1
+.end

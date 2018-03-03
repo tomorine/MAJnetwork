@@ -1,0 +1,54 @@
+# Benchmark "CM85" written by ABC on Thu Feb  1 19:32:11 2018
+.model CM85
+.inputs a b c d e f g h i j k
+.outputs l m n
+.names n17 n25 n23 l
+--0 1
+01- 1
+.names n20 n18 n22 n17
+-10 1
+0-0 1
+.names k j n19 n18
+-10 1
+0-0 1
+.names h i n19
+01 1
+.names i h n21 n20
+-00 1
+1-0 1
+.names g f n21
+01 1
+.names f g n22
+01 1
+.names n24 a n23
+00 1
+.names d b e n24
+011 1
+.names d e b n25
+001 1
+111 1
+.names n27 n25 m
+11 1
+.names n28 n30 n31 n27
+111 1
+.names i h n29 n28
+-00 1
+1-0 1
+.names k j n29
+01 1
+.names n22 n19 n30
+00 1
+.names k j n21 n31
+-10 1
+0-0 1
+.names n33 n25 n34 n
+--0 1
+01- 1
+.names n30 n28 n21 n33
+-10 1
+0-0 1
+.names n35 c n34
+00 1
+.names e d b n35
+011 1
+.end

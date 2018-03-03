@@ -1,0 +1,164 @@
+# Benchmark "count" written by ABC on Thu Feb  1 19:32:12 2018
+.model count
+.inputs a b c d e f g h i j k l m n o p q r s u v w x y z a0 b0 c0 d0 e0 f0 \
+ g0 h0 i0 j0
+.outputs k0 l0 m0 n0 o0 p0 q0 r0 s0 t0 u0 v0 w0 x0 y0 z0
+.names n54 n55 k0
+01 0
+.names r u q n54
+001 1
+111 1
+.names q p s n55
+-10 1
+1-0 1
+.names n57 q n58 l0
+--0 1
+01- 1
+.names r u v n57
+-10 1
+001 1
+1-0 1
+.names q o s n58
+-10 1
+1-0 1
+.names n60 n62 m0
+01 0
+.names n61 w q n60
+011 1
+101 1
+.names r u v n61
+000 1
+.names q n s n62
+-10 1
+1-0 1
+.names n64 q n65 n0
+--0 1
+01- 1
+.names w n61 x n64
+-00 1
+011 1
+1-0 1
+.names q m s n65
+-10 1
+1-0 1
+.names n67 n69 o0
+01 0
+.names n68 y q n67
+011 1
+101 1
+.names w x n61 n68
+001 1
+.names q l s n69
+-10 1
+1-0 1
+.names n71 q n72 p0
+--0 1
+01- 1
+.names y n68 z n71
+-00 1
+011 1
+1-0 1
+.names q k s n72
+-10 1
+1-0 1
+.names n74 n76 q0
+01 0
+.names n75 a0 q n74
+011 1
+101 1
+.names y z n68 n75
+001 1
+.names q j s n76
+-10 1
+1-0 1
+.names n78 q n79 r0
+--0 1
+01- 1
+.names a0 n75 b0 n78
+-00 1
+011 1
+1-0 1
+.names q i s n79
+-10 1
+1-0 1
+.names n81 n83 s0
+01 0
+.names n82 c0 q n81
+011 1
+101 1
+.names a0 b0 n75 n82
+001 1
+.names q h s n83
+-10 1
+1-0 1
+.names n85 q n86 t0
+--0 1
+01- 1
+.names c0 n82 d0 n85
+-00 1
+011 1
+1-0 1
+.names q g s n86
+-10 1
+1-0 1
+.names n88 n90 u0
+01 0
+.names n89 e0 q n88
+011 1
+101 1
+.names c0 d0 n82 n89
+001 1
+.names q f s n90
+-10 1
+1-0 1
+.names n92 q n93 v0
+--0 1
+01- 1
+.names e0 n89 f0 n92
+-00 1
+011 1
+1-0 1
+.names q e s n93
+-10 1
+1-0 1
+.names n95 n97 w0
+01 0
+.names n96 g0 q n95
+011 1
+101 1
+.names e0 f0 n89 n96
+001 1
+.names q d s n97
+-10 1
+1-0 1
+.names n99 q n100 x0
+--0 1
+01- 1
+.names g0 n96 h0 n99
+-00 1
+011 1
+1-0 1
+.names q c s n100
+-10 1
+1-0 1
+.names n102 n104 y0
+01 0
+.names n103 i0 q n102
+011 1
+101 1
+.names g0 h0 n96 n103
+001 1
+.names q b s n104
+-10 1
+1-0 1
+.names n106 n108 z0
+01 0
+.names n107 j0 q n106
+011 1
+101 1
+.names i0 n103 n107
+01 1
+.names q a s n108
+-10 1
+1-0 1
+.end

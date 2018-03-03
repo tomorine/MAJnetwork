@@ -1,0 +1,151 @@
+# Benchmark "unreg" written by ABC on Thu Feb  1 19:32:20 2018
+.model unreg
+.inputs a b c d e f g h i j k l m n o p q s t u v w x y z a0 b0 c0 d0 e0 f0 \
+ g0 h0 i0 j0 k0
+.outputs l0 m0 n0 o0 p0 q0 r0 s0 t0 u0 v0 w0 x0 y0 z0 a1
+.names n56 n57 n55 l0
+--1 1
+11- 1
+.names u v n55
+00 1
+.names s u n56
+01 1
+.names w d t n57
+-10 1
+0-1 1
+.names u w n59 m0
+--1 1
+00- 1
+.names n60 n61 n56 n59
+001 1
+.names c t n60
+00 1
+.names t x n61
+11 1
+.names u x n63 n0
+--1 1
+00- 1
+.names n64 n65 n56 n63
+001 1
+.names b t n64
+00 1
+.names t y n65
+11 1
+.names u y n67 o0
+--1 1
+00- 1
+.names n68 n69 n56 n67
+001 1
+.names a t n68
+00 1
+.names q t n69
+01 1
+.names u z n71 p0
+--1 1
+00- 1
+.names n72 n73 n56 n71
+001 1
+.names h t n72
+00 1
+.names t a0 n73
+11 1
+.names u a0 n75 q0
+--1 1
+00- 1
+.names n76 n77 n56 n75
+001 1
+.names g t n76
+00 1
+.names t b0 n77
+11 1
+.names u b0 n79 r0
+--1 1
+00- 1
+.names n80 n81 n56 n79
+001 1
+.names f t n80
+00 1
+.names t c0 n81
+11 1
+.names u c0 n83 s0
+--1 1
+00- 1
+.names n84 n85 n56 n83
+001 1
+.names e t n84
+00 1
+.names t v n85
+11 1
+.names u d0 n87 t0
+--1 1
+00- 1
+.names n88 n89 n56 n87
+001 1
+.names l t n88
+00 1
+.names t e0 n89
+11 1
+.names u e0 n91 u0
+--1 1
+00- 1
+.names n92 n93 n56 n91
+001 1
+.names k t n92
+00 1
+.names t f0 n93
+11 1
+.names u f0 n95 v0
+--1 1
+00- 1
+.names n96 n97 n56 n95
+001 1
+.names j t n96
+00 1
+.names t g0 n97
+11 1
+.names u g0 n99 w0
+--1 1
+00- 1
+.names n100 n101 n56 n99
+001 1
+.names i t n100
+00 1
+.names t z n101
+11 1
+.names u h0 n103 x0
+--1 1
+00- 1
+.names n104 n105 n56 n103
+001 1
+.names p t n104
+00 1
+.names t i0 n105
+11 1
+.names u i0 n107 y0
+--1 1
+00- 1
+.names n108 n109 n56 n107
+001 1
+.names o t n108
+00 1
+.names t j0 n109
+11 1
+.names u j0 n111 z0
+--1 1
+00- 1
+.names n112 n113 n56 n111
+001 1
+.names n t n112
+00 1
+.names t k0 n113
+11 1
+.names u k0 n115 a1
+--1 1
+00- 1
+.names n116 n117 n56 n115
+001 1
+.names m t n116
+00 1
+.names t d0 n117
+11 1
+.end

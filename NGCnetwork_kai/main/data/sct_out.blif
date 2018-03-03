@@ -1,0 +1,82 @@
+# Benchmark "sct" written by ABC on Thu Feb  1 19:32:19 2018
+.model sct
+.inputs a b c d e f g h i j k l m n o p q r s
+.outputs t u v w x y z a0 b0 c0 d0 e0 f0 g0 h0
+.names o c b t
+-01 1
+0-0 1
+.names e n38 f u
+-00 1
+0-1 1
+.names p s n38
+01 1
+.names g n40 v
+01 1
+.names n41 e n40
+01 1
+.names d c q n41
+-01 1
+1-1 1
+.names g h n40 w
+011 1
+101 1
+.names n40 n44 x
+11 1
+.names g h i n44
+-01 1
+0-1 1
+110 1
+.names n46 j n40 y
+001 0
+111 0
+.names g h i n46
+111 1
+.names n48 n50 n40 z
+001 0
+.names n49 k n48
+01 1
+.names j n46 n49
+01 1
+.names j k n46 n50
+001 1
+.names n50 l n40 a0
+001 0
+111 0
+.names n53 n54 n40 b0
+001 0
+.names l n50 m n53
+-01 1
+1-1 1
+.names n50 n55 n54
+11 1
+.names l m n55
+00 1
+.names n54 n n57 c0
+--0 1
+01- 1
+.names n58 n49 n40 n57
+-01 1
+0-1 1
+.names k n n55 n58
+001 1
+.names n60 n61 n62 d0
+--1 1
+01- 1
+.names n58 a n60
+00 1
+.names n40 n49 n61
+11 1
+.names n41 e o n62
+111 1
+.names n64 e f0
+01 1
+.names q c d n64
+-10 1
+0-0 1
+.names e r h0
+11 1
+.names c e0
+1 1
+.names e g0
+1 1
+.end

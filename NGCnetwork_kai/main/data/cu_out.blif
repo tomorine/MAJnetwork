@@ -1,0 +1,62 @@
+# Benchmark "cu" written by ABC on Thu Feb  1 19:32:12 2018
+.model cu
+.inputs a b c d e f g i j k l m n o
+.outputs p q r s t u v w x y z
+.names n28 n29 q
+01 1
+.names f c e n28
+-01 1
+0-0 1
+.names f c d n29
+-00 1
+0-0 1
+.names a b w r
+001 1
+.names e n32 f w
+011 1
+.names c d o n32
+000 1
+.names b a w s
+011 1
+.names a w b t
+011 1
+.names w a b u
+111 1
+.names c n37 n45 v
+-11 1
+1-1 1
+.names n38 n44 n40 n37
+001 1
+.names m b n39 n38
+-01 1
+1-1 1
+.names k b a n39
+-11 1
+1-1 1
+.names n41 n42 n43 n40
+011 1
+.names a b j n41
+001 1
+.names n f n42
+01 1
+.names i o n43
+01 1
+.names a b l n44
+011 1
+.names n46 d e n45
+001 1
+.names o f c n46
+-11 1
+1-1 1
+.names c n48 n45 x
+-11 1
+1-1 1
+.names n42 o n48
+11 1
+.names g o y
+11 1
+.names n29 g z
+11 1
+.names q p
+0 1
+.end

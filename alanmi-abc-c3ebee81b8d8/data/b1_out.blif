@@ -1,0 +1,21 @@
+# Benchmark "b1" written by ABC on Sun Jan 28 21:52:22 2018
+.model b1
+.inputs a b c
+.outputs d e f g
+.names a b n8
+11 1
+.names a b n9
+00 1
+.names n8 n9 e
+00 1
+.names c n9 n11
+11 1
+.names c n8 n12
+01 1
+.names n11 n12 f
+00 0
+.names c g
+0 1
+.names c d
+1 1
+.end

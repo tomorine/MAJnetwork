@@ -1,0 +1,47 @@
+# Benchmark "z4ml" written by ABC on Thu Feb  1 19:32:22 2018
+.model z4ml
+.inputs 1 2 3 4 5 6 7
+.outputs 24 25 26 27
+.names n16 n14 n18 24
+-10 1
+0-0 1
+.names 6 3 n15 n14
+-11 1
+1-1 1
+.names 1 4 7 n15
+-11 1
+1-1 1
+11- 1
+.names 5 2 n17 n16
+-00 1
+0-0 1
+.names 3 6 n17
+11 1
+.names 2 5 n18
+00 1
+.names n23 n14 n20 25
+--0 1
+01- 1
+.names n15 n21 n22 n20
+-01 1
+1-1 1
+.names n17 2 5 n21
+001 1
+010 1
+.names n23 3 6 n22
+011 0
+100 0
+.names 2 5 n23
+01 1
+10 1
+.names n15 3 6 26
+001 1
+010 1
+100 1
+111 1
+.names 1 4 7 27
+001 1
+010 1
+100 1
+111 1
+.end

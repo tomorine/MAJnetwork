@@ -1,0 +1,99 @@
+# Benchmark "pcler8_cl" written by ABC on Thu Feb  1 19:32:19 2018
+.model pcler8_cl
+.inputs a b c d e f g h i j k l m n o p q r s t u v w x y z a0
+.outputs b0 c0 d0 e0 f0 g0 h0 i0 j0 k0 l0 m0 n0 o0 p0 q0 r0
+.names n47 n50 b0
+11 1
+.names n48 y z n47
+111 1
+.names n49 w x n48
+111 1
+.names t u v n49
+111 1
+.names n51 a0 n50
+11 1
+.names i k j n51
+001 1
+.names a i c0
+11 1
+.names b i d0
+11 1
+.names c i e0
+11 1
+.names d i f0
+11 1
+.names e i g0
+11 1
+.names f i h0
+11 1
+.names g i i0
+11 1
+.names h i j0
+11 1
+.names b0 l n61 k0
+--0 1
+11- 1
+.names t n51 c0 n61
+-00 1
+1-0 1
+.names b0 m n63 l0
+--0 1
+11- 1
+.names n64 d0 n63
+00 1
+.names t u n51 n64
+011 1
+101 1
+.names b0 n n66 m0
+--0 1
+11- 1
+.names n67 e0 n66
+00 1
+.names n68 v n51 n67
+011 1
+101 1
+.names t u n68
+11 1
+.names b0 o n70 n0
+--0 1
+11- 1
+.names n71 f0 n70
+00 1
+.names n49 w n51 n71
+011 1
+101 1
+.names b0 p n73 o0
+--0 1
+11- 1
+.names n74 g0 n73
+00 1
+.names n75 x n51 n74
+011 1
+101 1
+.names n49 w n75
+11 1
+.names b0 q n77 p0
+--0 1
+11- 1
+.names n78 h0 n77
+00 1
+.names n48 y n51 n78
+011 1
+101 1
+.names n80 n81 i0 q0
+000 0
+.names n47 n50 r n80
+111 1
+.names n82 z n51 n81
+011 1
+101 1
+.names n48 y n82
+11 1
+.names n84 n85 j0 r0
+000 0
+.names n47 a0 n51 n84
+011 1
+101 1
+.names n47 n50 s n85
+111 1
+.end

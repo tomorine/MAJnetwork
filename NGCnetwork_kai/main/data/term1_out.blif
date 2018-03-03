@@ -1,0 +1,202 @@
+# Benchmark "term1" written by ABC on Thu Feb  1 19:32:20 2018
+.model term1
+.inputs a b c d e f g h i j k l m n o p q r s t u v w x y z a0 c0 d0 e0 f0 \
+ g0 h0 i0
+.outputs j0 k0 l0 m0 n0 o0 p0 q0 r0 s0
+.names i0 h0 n47 k0
+-01 1
+0-0 1
+.names c d n47
+01 1
+10 1
+.names n53 n49 n54 l0
+-11 1
+1-1 1
+.names b n52 n50 n49
+000 1
+011 1
+.names c g n51 n50
+-00 1
+011 1
+1-0 1
+.names e h n51
+01 1
+10 1
+.names d f n52
+01 1
+.names n47 n51 b n53
+001 1
+111 1
+.names j i n54
+01 1
+.names c0 n56 m0
+01 1
+.names n57 n64 n56
+11 1
+.names n61 n58 n63 n57
+-00 1
+0-0 1
+.names w r n59 n58
+-11 1
+1-1 1
+.names y t n60 n59
+-10 1
+1-0 1
+.names q v n60
+00 1
+.names x s n62 n61
+-10 1
+1-0 1
+.names p u n62
+00 1
+.names c d n63
+11 1
+.names a0 z b n64
+011 1
+.names n66 n67 n56 n0
+001 1
+.names d0 n57 c0 n66
+-00 1
+0-0 1
+.names c0 d0 n67
+11 1
+.names n67 e0 n56 o0
+011 1
+101 1
+.names n70 f0 n56 p0
+011 1
+101 1
+.names n67 e0 n70
+11 1
+.names n56 n72 q0
+11 0
+.names n70 f0 g0 n72
+-00 1
+0-0 1
+111 1
+.names h0 n74 n90 r0
+-11 1
+1-1 1
+.names n81 n75 n88 n74
+-11 1
+1-1 1
+.names n76 n79 n75
+11 1
+.names q p n77 n76
+-10 1
+1-0 1
+.names q l n78 n77
+-00 1
+1-0 1
+.names p k n78
+01 1
+.names n80 r n79
+11 1
+.names s t n80
+11 1
+.names n82 p q n81
+011 1
+.names s n85 n83 n82
+-10 1
+0-0 1
+.names s n n84 n83
+011 1
+.names r t n84
+11 1
+.names n87 n86 t n85
+-00 1
+0-1 1
+.names o r n86
+11 1
+.names r m n87
+01 1
+.names n89 f0 g0 n88
+011 1
+101 1
+.names d0 c0 e0 n89
+-11 1
+1-1 1
+.names n100 n91 n103 n90
+-01 1
+0-1 1
+.names n96 n92 n98 n91
+-01 1
+0-1 1
+.names r n93 n94 n92
+-10 1
+1-0 1
+.names m n80 n93
+01 1
+.names s o n95 n94
+-10 1
+0-0 1
+.names s n t n95
+-01 1
+1-1 1
+.names q n97 p n96
+-11 1
+1-1 1
+.names l n84 s n97
+011 1
+.names p k n99 n98
+-11 1
+1-0 1
+.names n80 q r n99
+111 1
+.names n101 n88 h0 n100
+111 1
+.names q n79 n102 n101
+-11 1
+1-1 1
+.names r s t n102
+-11 1
+1-1 1
+11- 1
+.names a0 a n103
+01 1
+.names n115 n105 n103 s0
+-11 1
+0-1 1
+.names n109 n106 n114 n105
+-11 1
+0-1 1
+.names q n92 n107 n106
+-01 1
+0-1 1
+.names n101 n108 g0 n107
+111 1
+.names n97 n89 f0 n108
+011 1
+.names n112 n110 n113 n109
+--0 1
+00- 1
+.names r n94 n111 n110
+-11 1
+0-1 1
+.names n93 n102 q n111
+011 1
+.names q l n79 n112
+011 1
+.names n89 f0 g0 n113
+000 1
+.names i0 p n114
+01 1
+.names n116 n120 n115
+00 1
+.names n117 n91 i0 n116
+-01 1
+0-1 1
+.names n118 n119 n101 n117
+001 1
+.names g0 n89 f0 n118
+-01 1
+1-0 1
+.names g0 n89 n119
+01 1
+.names n118 n119 n121 n120
+001 1
+.names i0 n78 n99 n121
+011 1
+.names h0 j0
+0 1
+.end

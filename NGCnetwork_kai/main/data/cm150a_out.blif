@@ -1,0 +1,72 @@
+# Benchmark "CM150" written by ABC on Thu Feb  1 19:32:10 2018
+.model CM150
+.inputs a b c d e f g h i j k l m n o p q r s t u
+.outputs v
+.names n36 n25 u v
+--1 1
+00- 1
+.names n26 n31 t n25
+001 1
+.names n29 n27 s n26
+-11 1
+1-1 1
+.names q p n28 n27
+-01 1
+0-1 1
+.names q o r n28
+-01 1
+1-1 1
+.names q n n30 n29
+-01 1
+0-1 1
+.names q m r n30
+-00 1
+1-0 1
+.names n34 n32 s n31
+-10 1
+1-0 1
+.names q i n33 n32
+-01 1
+1-1 1
+.names q j r n33
+-00 1
+0-0 1
+.names q k n35 n34
+-01 1
+1-1 1
+.names q l r n35
+-01 1
+0-1 1
+.names n37 n42 t n36
+000 1
+.names n40 n38 s n37
+-11 1
+1-1 1
+.names q h n39 n38
+-01 1
+0-1 1
+.names q g r n39
+-01 1
+1-1 1
+.names q f n41 n40
+-01 1
+0-1 1
+.names q e r n41
+-00 1
+1-0 1
+.names n45 n43 s n42
+-10 1
+1-0 1
+.names q a n44 n43
+-01 1
+1-1 1
+.names q b r n44
+-00 1
+0-0 1
+.names q c n46 n45
+-01 1
+1-1 1
+.names q d r n46
+-01 1
+0-1 1
+.end

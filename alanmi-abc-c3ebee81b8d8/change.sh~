@@ -1,0 +1,11 @@
+#!/bin/sh
+
+BLIF = ~/Download/alanmi-abc-c3ebee81b8d8/data/*.blif
+
+for file in $BLIF
+do
+    echo file
+done
+
+
+

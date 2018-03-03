@@ -1,0 +1,41 @@
+# Benchmark "CM151" written by ABC on Thu Feb  1 19:32:10 2018
+.model CM151
+.inputs a b c d e f g h i j k l
+.outputs m n
+.names n22 n17 l m
+-10 1
+1-0 1
+.names n20 n18 k n17
+-11 1
+1-1 1
+.names i h n19 n18
+-11 1
+0-1 1
+.names i g j n19
+-11 1
+1-1 1
+.names i e n21 n20
+-11 1
+1-1 1
+.names i f j n21
+-10 1
+0-0 1
+.names n25 n23 k n22
+-10 1
+1-0 1
+.names i a n24 n23
+-11 1
+1-1 1
+.names i b j n24
+-10 1
+0-0 1
+.names i d n26 n25
+-11 1
+0-1 1
+.names i c j n26
+-11 1
+1-1 1
+.names n22 n17 l n
+--1 1
+00- 1
+.end

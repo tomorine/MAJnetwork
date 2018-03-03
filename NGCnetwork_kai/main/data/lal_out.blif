@@ -1,0 +1,108 @@
+# Benchmark "lal" written by ABC on Thu Feb  1 19:32:18 2018
+.model lal
+.inputs a b c d e f g h j k l m n o p q r s t u v w x y z a0
+.outputs b0 c0 d0 e0 f0 g0 h0 i0 j0 k0 l0 m0 n0 o0 p0 q0 r0 s0 t0
+.names r j b0
+01 1
+.names n49 n55 n53 c0
+001 0
+.names n50 y a0 n49
+000 1
+.names v n51 n52 n50
+-11 1
+1-1 1
+.names s t u n51
+000 1
+.names w x n52
+11 1
+.names n54 h n53
+00 1
+.names e f n54
+11 1
+.names z a0 n55
+00 1
+.names z n50 n57 e0
+-01 1
+0-1 1
+.names z y a0 n57
+-00 1
+0-0 1
+.names n61 n59 j f0
+-00 1
+0-0 1
+.names c m n60 n59
+001 1
+111 1
+.names a k n60
+00 1
+11 1
+.names d n n62 n61
+001 1
+111 1
+.names b l n62
+00 1
+11 1
+.names j o g0
+00 1
+.names j p h0
+01 1
+.names j g i0
+01 0
+.names h q n54 k0
+001 1
+.names s n68 l0
+01 1
+.names n54 h q n68
+000 1
+.names s t n68 m0
+011 1
+101 1
+.names n71 u n68 n0
+011 1
+101 1
+.names s t n71
+11 1
+.names n73 n74 n68 o0
+001 0
+.names u n71 v n73
+-01 1
+0-1 1
+.names n71 n75 n74
+11 1
+.names v u n75
+01 1
+.names n74 w n68 p0
+001 0
+111 0
+.names n78 n79 n68 q0
+001 0
+.names w n74 x n78
+-01 1
+1-1 1
+.names w x n74 n79
+001 1
+.names n79 y n81 r0
+--0 1
+01- 1
+.names n82 n68 n81
+01 1
+.names n71 n75 n83 n82
+111 1
+.names w x y n83
+000 1
+.names n82 z n68 s0
+001 0
+111 0
+.names n86 n87 t0
+01 0
+.names z n82 a0 n86
+-01 1
+1-1 1
+.names n55 n82 n68 n87
+-01 1
+0-1 1
+.names e0 j0
+0 1
+.names r d0
+1 1
+.end

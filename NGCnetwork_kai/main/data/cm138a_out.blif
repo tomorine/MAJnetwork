@@ -1,0 +1,31 @@
+# Benchmark "CM138" written by ABC on Thu Feb  1 19:32:10 2018
+.model CM138
+.inputs a b c d e f
+.outputs g h i j k l m n
+.names c n18 n17 g
+011 0
+.names a b n17
+00 1
+.names e f d n18
+001 1
+.names c n20 n18 h
+011 0
+.names b a n20
+01 1
+.names c n22 n18 i
+011 0
+.names a b n22
+01 1
+.names c n24 n18 j
+011 0
+.names a b n24
+11 1
+.names n17 n18 c k
+111 0
+.names n18 n20 c l
+111 0
+.names n18 n22 c m
+111 0
+.names n18 n24 c n
+111 0
+.end

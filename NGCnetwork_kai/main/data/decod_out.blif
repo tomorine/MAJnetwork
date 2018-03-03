@@ -1,0 +1,53 @@
+# Benchmark "decod" written by ABC on Thu Feb  1 19:32:12 2018
+.model decod
+.inputs a b c d e
+.outputs f g h i j k l m n o p q r s t u
+.names n24 a e f
+111 1
+.names b c d n24
+111 1
+.names n26 a e g
+111 1
+.names d c b n26
+011 1
+.names n28 a e h
+111 1
+.names c b d n28
+011 1
+.names n30 a e i
+111 1
+.names c d b n30
+001 1
+.names n32 a e j
+111 1
+.names b c d n32
+011 1
+.names n34 a e k
+111 1
+.names b d c n34
+001 1
+.names n36 a e l
+111 1
+.names b c d n36
+001 1
+.names n38 a e m
+111 1
+.names b c d n38
+000 1
+.names a n24 e n
+011 1
+.names a n26 e o
+011 1
+.names a n28 e p
+011 1
+.names a n30 e q
+011 1
+.names a n32 e r
+011 1
+.names a n34 e s
+011 1
+.names a n36 e t
+011 1
+.names a n38 e u
+011 1
+.end

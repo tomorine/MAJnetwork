@@ -1,0 +1,45 @@
+# Benchmark "tcon" written by ABC on Thu Feb  1 19:32:20 2018
+.model tcon
+.inputs a b c d e f g h i k l m n o p q r
+.outputs s t u v w x y z a0 b0 c0 d0 e0 f0 g0 h0
+.names k a i a0
+-11 1
+1-0 1
+.names l b i b0
+-11 1
+1-0 1
+.names m c i c0
+-11 1
+1-0 1
+.names n d i d0
+-11 1
+1-0 1
+.names o e i e0
+-11 1
+1-0 1
+.names p f i f0
+-11 1
+1-0 1
+.names q g i g0
+-11 1
+1-0 1
+.names r h i h0
+-11 1
+1-0 1
+.names k s
+1 1
+.names l t
+1 1
+.names m u
+1 1
+.names n v
+1 1
+.names o w
+1 1
+.names p x
+1 1
+.names q y
+1 1
+.names r z
+1 1
+.end

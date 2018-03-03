@@ -1,0 +1,23 @@
+# Benchmark "CM82" written by ABC on Thu Feb  1 19:32:11 2018
+.model CM82
+.inputs a b c d e
+.outputs f g h
+.names a b c f
+001 1
+010 1
+100 1
+111 1
+.names n12 d e g
+000 1
+011 1
+101 1
+110 1
+.names a b c n12
+-00 1
+0-0 1
+00- 1
+.names n12 d e h
+-11 1
+0-1 1
+01- 1
+.end

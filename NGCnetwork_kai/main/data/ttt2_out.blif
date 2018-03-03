@@ -1,0 +1,195 @@
+# Benchmark "ttt2" written by ABC on Thu Feb  1 19:32:20 2018
+.model ttt2
+.inputs a b c e f g h i j k l m n o p q r s t u v w x y
+.outputs z a0 b0 c0 d0 e0 f0 g0 h0 i0 j0 k0 l0 m0 n0 o0 p0 q0 r0 s0 t0
+.names n48 w z
+00 1
+.names e n51 n49 n48
+-00 1
+0-0 1
+.names v n50 u n49
+-10 1
+0-0 1
+.names t s n50
+01 1
+.names u t v n51
+-11 1
+1-1 1
+.names n53 n57 n59 a0
+000 1
+.names n56 n55 n54 n53
+-11 1
+0-1 1
+.names f n51 w n54
+-00 1
+0-0 1
+.names y v u n55
+-10 0
+101 0
+.names s t n56
+00 1
+.names n58 u n57
+11 1
+.names v y n50 n58
+001 1
+.names w v q n59
+-01 1
+1-1 1
+.names n61 n62 n64 b0
+000 1
+.names n58 w n61
+01 1
+.names u n63 t n62
+-10 1
+0-0 1
+.names s v y n63
+001 1
+.names u g v n64
+-01 1
+0-0 1
+.names w n69 n66 c0
+-10 1
+1-0 1
+.names n67 n61 q n66
+-11 1
+1-1 1
+.names n68 n63 t n67
+-10 1
+1-0 1
+.names u s n68
+01 1
+.names h n51 n49 n69
+-00 1
+1-0 1
+.names v n68 n71 d0
+-11 1
+1-1 1
+.names v i n72 n71
+-11 1
+0-1 1
+.names u t w n72
+-10 1
+1-0 1
+.names n74 w e0
+00 1
+.names j n51 n75 n74
+-00 1
+0-0 1
+.names n76 u n75
+00 1
+.names v t s n76
+-11 1
+1-0 1
+.names a k f0
+00 1
+.names n79 n81 a g0
+000 1
+.names k n80 l n79
+-10 1
+0-0 1
+.names m n n80
+01 1
+.names k l n81
+11 1
+.names a n81 m h0
+001 1
+010 1
+.names n87 n86 n84 i0
+-11 1
+0-1 1
+.names n n85 a n84
+-10 1
+1-0 1
+.names n81 m n85
+11 1
+.names n m l n86
+-01 1
+0-1 1
+.names m l k n87
+-11 1
+0-1 1
+.names a n89 o j0
+000 1
+011 1
+.names n90 n80 x n89
+-00 1
+0-0 1
+.names l k n90
+01 1
+.names n92 p n93 k0
+011 1
+101 1
+.names n89 o n92
+01 1
+.names n94 a n93
+00 1
+.names p q r n94
+001 1
+.names n97 n92 n96 l0
+-01 1
+1-1 1
+.names q n92 a n96
+-10 1
+1-0 1
+.names p q n97
+01 1
+10 1
+.names n100 n99 a m0
+-10 1
+1-0 1
+.names n97 n92 r n99
+-01 1
+1-1 1
+.names n92 n101 n100
+11 1
+.names r q p n101
+011 1
+.names n103 n104 a n0
+000 1
+.names n94 n92 s n103
+-00 1
+0-0 1
+.names n89 n105 n104
+01 1
+.names n94 o s n105
+111 1
+.names n108 n107 a o0
+-10 1
+1-0 1
+.names n104 t n107
+01 1
+.names n92 n109 n94 n108
+111 1
+.names v u n50 n109
+-11 1
+0-1 1
+.names a n111 u p0
+001 1
+010 1
+.names n89 n105 t n111
+011 1
+.names n115 n113 a q0
+-10 1
+1-0 1
+.names n114 n104 v n113
+-01 1
+1-1 1
+.names t u n114
+01 1
+10 1
+.names v u n111 n115
+011 1
+.names n57 n117 a r0
+000 1
+.names n56 n118 w n117
+-00 1
+0-0 1
+.names v u y n118
+011 1
+.names a b x s0
+001 1
+010 1
+.names a c y t0
+001 1
+010 1
+.end

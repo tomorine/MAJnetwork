@@ -1,0 +1,49 @@
+# Benchmark "cmb" written by ABC on Thu Feb  1 19:32:11 2018
+.model cmb
+.inputs a b c d e f g h i j k l m n o p
+.outputs q r s t
+.names n23 n25 n27 q
+111 1
+.names n24 c d n23
+111 1
+.names e l n24
+11 1
+.names n26 a b n25
+111 1
+.names f g n26
+11 1
+.names n28 j k n27
+111 1
+.names h i n28
+11 1
+.names p n30 t
+01 1
+.names n31 n33 n36 n30
+111 1
+.names o n n32 n31
+-10 1
+0-0 1
+.names j h i n32
+-01 1
+1-0 1
+.names n34 n35 n33
+00 1
+.names h f g n34
+-01 1
+1-0 1
+.names n l m n35
+-01 1
+1-0 1
+.names n37 n38 n36
+00 1
+.names l j k n37
+-01 1
+1-0 1
+.names f p e n38
+-01 1
+1-0 1
+.names n30 o s
+11 0
+.names p n30 r
+01 0
+.end

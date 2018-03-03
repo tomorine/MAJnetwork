@@ -1,0 +1,31 @@
+# Benchmark "CM42" written by ABC on Thu Feb  1 19:32:11 2018
+.model CM42
+.inputs a b c d
+.outputs e f g h i j k l m n
+.names a b n17 e
+001 0
+.names c d n17
+00 1
+.names b a n17 f
+011 0
+.names a n17 b g
+011 0
+.names n17 a b h
+111 0
+.names a b n22 i
+001 0
+.names d c n22
+01 1
+.names b a n22 j
+011 0
+.names a n22 b k
+011 0
+.names n22 a b l
+111 0
+.names a n27 m
+01 0
+.names b c d n27
+001 1
+.names n27 a n
+11 0
+.end

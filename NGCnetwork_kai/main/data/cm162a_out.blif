@@ -1,0 +1,52 @@
+# Benchmark "CM162" written by ABC on Thu Feb  1 19:32:11 2018
+.model CM162
+.inputs a b c d e f g h i j k l m n
+.outputs o p q r s
+.names a n27 n22 o
+-00 1
+0-0 1
+.names n24 i n23 n22
+001 1
+111 1
+.names n25 n24 n26 n23
+-01 1
+0-1 1
+.names c d e n24
+111 1
+.names j n n25
+11 1
+.names d f n26
+11 1
+.names d f n27
+01 1
+.names b n27 n29 p
+-00 1
+0-0 1
+.names n30 k n23 n29
+001 1
+111 1
+.names i n24 n30
+01 1
+.names n33 n32 n36 q
+-10 1
+0-0 1
+.names k n30 l n32
+-01 1
+1-1 1
+.names n34 n23 n33
+01 1
+.names i n35 n24 n34
+011 1
+.names k l n35
+00 1
+.names n27 g n36
+11 1
+.names h n27 n38 r
+-00 1
+0-0 1
+.names n34 m n23 n38
+001 1
+111 1
+.names n25 e s
+11 1
+.end

@@ -1,0 +1,70 @@
+# Benchmark "mux" written by ABC on Thu Feb  1 19:32:18 2018
+.model mux
+.inputs a b c d e f g h i j k l m n o p q r s t u
+.outputs v
+.names n36 n25 u v
+-11 1
+1-1 1
+.names n26 n31 q n25
+001 1
+.names n27 n29 r n26
+001 1
+.names s b n28 n27
+-11 1
+0-1 1
+.names s d t n28
+-10 1
+1-0 1
+.names s a n30 n29
+-11 1
+0-1 1
+.names s c t n30
+-11 1
+1-1 1
+.names n32 n34 r n31
+000 1
+.names s h n33 n32
+-11 1
+1-1 1
+.names s f t n33
+-10 1
+0-0 1
+.names s g n35 n34
+-11 1
+1-1 1
+.names s e t n35
+-11 1
+0-1 1
+.names n37 n42 q n36
+000 1
+.names n40 n38 r n37
+-11 1
+1-1 1
+.names s k n39 n38
+-01 1
+1-1 1
+.names s i t n39
+-01 1
+0-1 1
+.names s j n41 n40
+-01 1
+0-1 1
+.names s l t n41
+-00 1
+1-0 1
+.names n45 n43 r n42
+-10 1
+1-0 1
+.names s n n44 n43
+-01 1
+0-1 1
+.names s p t n44
+-00 1
+1-0 1
+.names s m n46 n45
+-01 1
+0-1 1
+.names s o t n46
+-01 1
+1-1 1
+.end

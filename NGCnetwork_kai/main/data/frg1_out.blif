@@ -1,0 +1,140 @@
+# Benchmark "frg1" written by ABC on Thu Feb  1 19:32:14 2018
+.model frg1
+.inputs a b c e f g h i j k l m n o p q r s t u v w x y z a0 b0 c0
+.outputs d0 e0 f0
+.names n34 n77 n78 d0
+--1 1
+01- 1
+.names n63 n70 n35 n34
+001 1
+.names i n36 n47 n35
+-11 1
+1-1 1
+.names n46 n45 n37 n36
+-11 1
+0-1 1
+.names n38 n43 n44 n37
+001 1
+.names g n39 n41 n38
+-11 1
+0-1 1
+.names k n40 p n39
+-10 1
+0-0 1
+.names s t n40
+00 1
+.names m n42 o n41
+-10 1
+0-0 1
+.names x g w n42
+-00 1
+0-0 1
+.names g n40 l n43
+-10 1
+0-0 1
+.names n n42 j n44
+-01 1
+1-1 1
+.names x n n39 n45
+-10 1
+1-0 1
+.names x m h n46
+-00 1
+0-0 1
+.names g n57 n48 n47
+-11 1
+1-1 1
+.names n n49 n53 n48
+-11 1
+1-1 1
+.names n50 m n49
+01 1
+.names h n51 n52 n50
+-11 1
+0-1 1
+.names w j y n51
+-00 1
+0-0 1
+.names x j z n52
+-00 1
+0-0 1
+.names l n54 n56 n53
+-10 1
+1-0 1
+.names u g n55 n54
+-11 1
+1-1 1
+.names k n n55
+11 1
+.names a e n56
+00 1
+.names n62 n58 n61 n57
+-01 1
+0-1 1
+.names j n60 n59 n58
+-10 1
+0-0 1
+.names m y n59
+11 1
+.names w m o n60
+-00 1
+0-0 1
+.names n n51 h n61
+-01 1
+1-1 1
+.names q u n62
+00 1
+.names n69 n64 n68 n63
+-11 1
+1-1 1
+.names n49 n65 n64
+01 1
+.names h n66 n67 n65
+-11 1
+0-1 1
+.names o j n62 n66
+-01 1
+0-1 1
+.names p j r n67
+-00 1
+0-0 1
+.names j n40 v n68
+-10 1
+0-0 1
+.names u h l n69
+-00 1
+0-0 1
+.names n76 n71 k n70
+-10 1
+1-0 1
+.names g n73 n72 n71
+-11 1
+0-1 1
+.names q n58 n72
+01 1
+.names j n74 n75 n73
+-11 1
+0-1 1
+.names x m p n74
+-00 1
+0-0 1
+.names z m r n75
+-00 1
+0-0 1
+.names h n73 n76
+01 1
+.names c0 n56 c n77
+-00 1
+0-0 1
+.names b c n78
+01 1
+.names n80 a c e0
+000 0
+.names a0 e f n80
+-11 1
+0-1 1
+.names n82 e f0
+00 1
+.names a c b0 n82
+001 1
+.end

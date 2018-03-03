@@ -1,0 +1,429 @@
+
+9symml_out.blif
+117 : node num
+43  36.7521% : for no cspf
+115  98.2906% : cspf
+2.67442 : increase
+----------------------------------------
+C1355_out.blif
+123 : node num
+34  27.6423% : for no cspf
+90  73.1707% : cspf
+2.64706 : increase
+----------------------------------------
+C17_out.blif
+5 : node num
+1  20% : for no cspf
+2  40% : cspf
+2 : increase
+----------------------------------------
+C1908_out.blif
+147 : node num
+32  21.7687% : for no cspf
+121  82.3129% : cspf
+3.78125 : increase
+----------------------------------------
+C2670_out.blif
+C3540_out.blif
+C432_out.blif
+82 : node num
+24  29.2683% : for no cspf
+77  93.9024% : cspf
+3.20833 : increase
+----------------------------------------
+C499_out.blif
+120 : node num
+27  22.5% : for no cspf
+87  72.5% : cspf
+3.22222 : increase
+----------------------------------------
+C5315_out.blif
+C6288_out.blif
+C7552_out.blif
+C880_out.blif
+adder6_out.blif
+13 : node num
+5  38.4615% : for no cspf
+6  46.1538% : cspf
+1.2 : increase
+----------------------------------------
+alu2_out.blif
+219 : node num
+103  47.032% : for no cspf
+215  98.1735% : cspf
+2.08738 : increase
+----------------------------------------
+alu4_out.blif
+382 : node num
+152  39.7906% : for no cspf
+378  98.9529% : cspf
+2.48684 : increase
+----------------------------------------
+apex6_out.blif
+360 : node num
+123  34.1667% : for no cspf
+273  75.8333% : cspf
+2.21951 : increase
+----------------------------------------
+apex7_out.blif
+107 : node num
+47  43.9252% : for no cspf
+80  74.7664% : cspf
+1.70213 : increase
+----------------------------------------
+b1_out.blif
+5 : node num
+0  0% : for no cspf
+0  0% : cspf
+-nan : increase
+----------------------------------------
+b1_out_out.blif
+5 : node num
+0  0% : for no cspf
+0  0% : cspf
+-nan : increase
+----------------------------------------
+b9_out.blif
+56 : node num
+21  37.5% : for no cspf
+43  76.7857% : cspf
+2.04762 : increase
+----------------------------------------
+c8_out.blif
+56 : node num
+13  23.2143% : for no cspf
+44  78.5714% : cspf
+3.38462 : increase
+----------------------------------------
+cc_out.blif
+40 : node num
+11  27.5% : for no cspf
+22  55% : cspf
+2 : increase
+----------------------------------------
+cht_out.blif
+83 : node num
+1  1.20482% : for no cspf
+46  55.4217% : cspf
+46 : increase
+----------------------------------------
+cm138a_out.blif
+14 : node num
+4  28.5714% : for no cspf
+5  35.7143% : cspf
+1.25 : increase
+----------------------------------------
+cm150a_out.blif
+24 : node num
+5  20.8333% : for no cspf
+23  95.8333% : cspf
+4.6 : increase
+----------------------------------------
+cm151a_out.blif
+13 : node num
+4  30.7692% : for no cspf
+12  92.3077% : cspf
+3 : increase
+----------------------------------------
+cm152a_out.blif
+12 : node num
+2  16.6667% : for no cspf
+10  83.3333% : cspf
+5 : increase
+----------------------------------------
+cm162a_out.blif
+20 : node num
+8  40% : for no cspf
+15  75% : cspf
+1.875 : increase
+----------------------------------------
+cm163a_out.blif
+17 : node num
+3  17.6471% : for no cspf
+11  64.7059% : cspf
+3.66667 : increase
+----------------------------------------
+cm42a_out.blif
+14 : node num
+4  28.5714% : for no cspf
+5  35.7143% : cspf
+1.25 : increase
+----------------------------------------
+cm82a_out.blif
+5 : node num
+1  20% : for no cspf
+2  40% : cspf
+2 : increase
+----------------------------------------
+cm85a_out.blif
+21 : node num
+8  38.0952% : for no cspf
+18  85.7143% : cspf
+2.25 : increase
+----------------------------------------
+cmb_out.blif
+20 : node num
+8  40% : for no cspf
+18  90% : cspf
+2.25 : increase
+----------------------------------------
+comp_out.blif
+56 : node num
+24  42.8571% : for no cspf
+54  96.4286% : cspf
+2.25 : increase
+----------------------------------------
+cordic_out.blif
+22 : node num
+4  18.1818% : for no cspf
+19  86.3636% : cspf
+4.75 : increase
+----------------------------------------
+count_out.blif
+57 : node num
+10  17.5439% : for no cspf
+49  85.9649% : cspf
+4.9 : increase
+----------------------------------------
+cu_out.blif
+26 : node num
+6  23.0769% : for no cspf
+17  65.3846% : cspf
+2.83333 : increase
+----------------------------------------
+dalu_out.blif
+562 : node num
+210  37.3665% : for no cspf
+545  96.9751% : cspf
+2.59524 : increase
+----------------------------------------
+decod_out.blif
+25 : node num
+0  0% : for no cspf
+8  32% : cspf
+inf : increase
+----------------------------------------
+des_out.blif
+1907 : node num
+685  35.9203% : for no cspf
+1775  93.0781% : cspf
+2.59124 : increase
+----------------------------------------
+example2_out.blif
+135 : node num
+58  42.963% : for no cspf
+97  71.8519% : cspf
+1.67241 : increase
+----------------------------------------
+f51m_out.blif
+69 : node num
+22  31.8841% : for no cspf
+60  86.9565% : cspf
+2.72727 : increase
+----------------------------------------
+frg1_out.blif
+51 : node num
+11  21.5686% : for no cspf
+48  94.1176% : cspf
+4.36364 : increase
+----------------------------------------
+frg2_out.blif
+386 : node num
+101  26.1658% : for no cspf
+291  75.3886% : cspf
+2.88119 : increase
+----------------------------------------
+i10_out.blif
+i1_out.blif
+23 : node num
+9  39.1304% : for no cspf
+15  65.2174% : cspf
+1.66667 : increase
+----------------------------------------
+i2_out.blif
+140 : node num
+68  48.5714% : for no cspf
+138  98.5714% : cspf
+2.02941 : increase
+----------------------------------------
+i3_out.blif
+87 : node num
+46  52.8736% : for no cspf
+86  98.8506% : cspf
+1.86957 : increase
+----------------------------------------
+i4_out.blif
+139 : node num
+46  33.0935% : for no cspf
+134  96.4029% : cspf
+2.91304 : increase
+----------------------------------------
+i5_out.blif
+75 : node num
+3  4% : for no cspf
+10  13.3333% : cspf
+3.33333 : increase
+----------------------------------------
+i6_out.blif
+179 : node num
+6  3.35196% : for no cspf
+112  62.5698% : cspf
+18.6667 : increase
+----------------------------------------
+i7_out.blif
+333 : node num
+68  20.4204% : for no cspf
+265  79.5796% : cspf
+3.89706 : increase
+----------------------------------------
+i8_out.blif
+574 : node num
+205  35.7143% : for no cspf
+507  88.3275% : cspf
+2.47317 : increase
+----------------------------------------
+i9_out.blif
+295 : node num
+48  16.2712% : for no cspf
+235  79.661% : cspf
+4.89583 : increase
+----------------------------------------
+k2_out.blif
+834 : node num
+358  42.9257% : for no cspf
+801  96.0432% : cspf
+2.23743 : increase
+----------------------------------------
+lal_out.blif
+44 : node num
+14  31.8182% : for no cspf
+30  68.1818% : cspf
+2.14286 : increase
+----------------------------------------
+majority_out.blif
+6 : node num
+2  33.3333% : for no cspf
+4  66.6667% : cspf
+2 : increase
+----------------------------------------
+mux_out.blif
+24 : node num
+3  12.5% : for no cspf
+23  95.8333% : cspf
+7.66667 : increase
+----------------------------------------
+my_adder_out.blif
+pair_out.blif
+719 : node num
+258  35.8832% : for no cspf
+643  89.4298% : cspf
+2.49225 : increase
+----------------------------------------
+parity_out.blif
+11 : node num
+0  0% : for no cspf
+9  81.8182% : cspf
+inf : increase
+----------------------------------------
+pcle_out.blif
+25 : node num
+4  16% : for no cspf
+15  60% : cspf
+3.75 : increase
+----------------------------------------
+pcler8_out.blif
+41 : node num
+18  43.9024% : for no cspf
+32  78.0488% : cspf
+1.77778 : increase
+----------------------------------------
+pm1_out.blif
+24 : node num
+7  29.1667% : for no cspf
+13  54.1667% : cspf
+1.85714 : increase
+----------------------------------------
+rot_out.blif
+298 : node num
+109  36.5772% : for no cspf
+222  74.4966% : cspf
+2.0367 : increase
+----------------------------------------
+sct_out.blif
+33 : node num
+13  39.3939% : for no cspf
+22  66.6667% : cspf
+1.69231 : increase
+----------------------------------------
+t481_out.blif
+523 : node num
+204  39.0057% : for no cspf
+521  99.6176% : cspf
+2.55392 : increase
+----------------------------------------
+tcon_out.blif
+17 : node num
+0  0% : for no cspf
+0  0% : cspf
+-nan : increase
+----------------------------------------
+term1_out.blif
+78 : node num
+30  38.4615% : for no cspf
+71  91.0256% : cspf
+2.36667 : increase
+----------------------------------------
+too_large_out.blif
+263 : node num
+97  36.8821% : for no cspf
+259  98.4791% : cspf
+2.6701 : increase
+----------------------------------------
+ttt2_out.blif
+75 : node num
+22  29.3333% : for no cspf
+59  78.6667% : cspf
+2.68182 : increase
+----------------------------------------
+unreg_out.blif
+65 : node num
+32  49.2308% : for no cspf
+48  73.8462% : cspf
+1.5 : increase
+----------------------------------------
+vda_out.blif
+373 : node num
+142  38.0697% : for no cspf
+347  93.0295% : cspf
+2.44366 : increase
+----------------------------------------
+x1_out.blif
+159 : node num
+43  27.044% : for no cspf
+127  79.8742% : cspf
+2.95349 : increase
+----------------------------------------
+x2_out.blif
+22 : node num
+7  31.8182% : for no cspf
+15  68.1818% : cspf
+2.14286 : increase
+----------------------------------------
+x3_out.blif
+323 : node num
+67  20.743% : for no cspf
+249  77.0898% : cspf
+3.71642 : increase
+----------------------------------------
+x4_out.blif
+191 : node num
+99  51.8325% : for no cspf
+159  83.2461% : cspf
+1.60606 : increase
+----------------------------------------
+z4ml_out.blif
+14 : node num
+3  21.4286% : for no cspf
+9  64.2857% : cspf
+3 : increase
+----------------------------------------

@@ -1,0 +1,45 @@
+# Benchmark "PARITYFDS" written by ABC on Thu Feb  1 19:32:19 2018
+.model PARITYFDS
+.inputs a b c d e f g h i j k l m n o p
+.outputs q
+.names n20 n25 n27 q
+001 1
+010 1
+100 1
+111 1
+.names n21 n23 n20
+01 1
+10 1
+.names n22 f g n21
+000 1
+011 1
+101 1
+110 1
+.names e h n22
+01 1
+10 1
+.names n24 a b n23
+000 1
+011 1
+101 1
+110 1
+.names c d n24
+01 1
+10 1
+.names n26 n o n25
+000 1
+011 1
+101 1
+110 1
+.names m p n26
+01 1
+10 1
+.names n28 i j n27
+000 1
+011 1
+101 1
+110 1
+.names k l n28
+01 1
+10 1
+.end

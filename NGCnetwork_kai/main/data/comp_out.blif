@@ -1,0 +1,141 @@
+# Benchmark "comp" written by ABC on Thu Feb  1 19:32:11 2018
+.model comp
+.inputs a b c d e f g h i j k l m n o p q r s t u v w x y z a0 b0 c0 d0 e0 \
+ f0
+.outputs g0 h0 i0
+.names n38 h0 n89 g0
+001 1
+.names n69 n39 n71 n38
+-11 1
+0-1 1
+.names n47 n40 n59 n39
+-01 1
+1-1 1
+.names n41 i y n40
+-01 1
+1-1 1
+10- 1
+.names n44 n42 n46 n41
+-10 1
+0-0 1
+.names b0 l n43 n42
+-00 1
+1-0 1
+.names a0 k n43
+01 1
+.names a0 k n45 n44
+-10 1
+0-0 1
+.names j z n45
+01 1
+.names z j n46
+01 1
+.names n58 n48 n54 n47
+-11 1
+1-1 1
+.names n53 n51 n49 n48
+-11 1
+1-1 1
+.names c0 m n50 n49
+-10 1
+0-0 1
+.names n d0 n50
+01 1
+.names n52 e0 o n51
+-01 1
+1-1 1
+10- 1
+.names f0 p n52
+01 1
+.names d0 n n53
+01 1
+.names n42 n44 n55 n54
+111 1
+.names n46 n57 n56 n55
+001 1
+.names i y n56
+00 1
+11 1
+.names l b0 n57
+01 1
+.names c0 m n58
+01 1
+.names n60 n65 n67 n59
+111 1
+.names n63 n64 n61 n60
+001 1
+.names x h n62 n61
+-10 1
+0-0 1
+.names g w n62
+01 1
+.names u e n63
+01 1
+.names v f n64
+01 1
+.names u e n66 n65
+-10 1
+0-0 1
+.names f v n66
+01 1
+.names x h n68 n67
+-00 1
+1-0 1
+.names w g n68
+01 1
+.names n65 n70 n63 n69
+-10 1
+0-0 1
+.names n62 n67 n64 n70
+-10 1
+1-0 1
+.names n72 n77 n79 n71
+111 1
+.names n75 n76 n73 n72
+001 1
+.names t d n74 n73
+-10 1
+0-0 1
+.names c s n74
+01 1
+.names q a n75
+01 1
+.names r b n76
+01 1
+.names s c n78 n77
+-00 1
+1-0 1
+.names t d n78
+01 1
+.names q a n80 n79
+-10 1
+0-0 1
+.names b r n80
+01 1
+.names n82 n71 h0
+11 1
+.names n59 n83 n54 n82
+111 1
+.names n84 n86 n87 n83
+111 1
+.names n49 n85 n84
+11 1
+.names e0 o n52 n85
+-00 1
+1-0 1
+.names n58 n53 n86
+00 1
+.names f0 p n88 n87
+-10 1
+0-0 1
+.names o e0 n88
+01 1
+.names n79 n90 n75 n89
+-10 1
+0-0 1
+.names n74 n77 n76 n90
+-10 1
+1-0 1
+.names n38 n89 i0
+01 0
+.end

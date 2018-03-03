@@ -1,0 +1,140 @@
+# Benchmark "b9" written by ABC on Thu Feb  1 19:32:09 2018
+.model b9
+.inputs a b c d e f g h i j k l m n o p q r s t u v w x y z a0 b0 c0 d0 e0 \
+ f0 g0 h0 i0 j0 k0 l0 m0 n0 o0
+.outputs p0 q0 r0 s0 t0 u0 v0 w0 x0 y0 z0 a1 b1 c1 d1 e1 f1 g1 h1 i1 j1
+.names p b1 q p0
+--0 1
+00- 1
+.names x0 n68 n66 b1
+-10 1
+0-0 1
+.names l0 n67 b0 n66
+-11 1
+1-1 1
+.names c0 j0 n67
+11 1
+.names n70 n69 n71 n68
+-10 1
+0-0 1
+.names j0 c0 k0 n69
+-10 1
+0-0 1
+.names e b0 n70
+01 1
+.names e k n71
+01 1
+.names n0 o0 x0
+11 1
+.names n74 e q0
+01 0
+.names b0 n69 n75 n74
+-11 1
+0-1 1
+.names e0 g0 n75
+00 1
+.names n77 e n79 r0
+--0 1
+01- 1
+.names b0 i n78 n77
+-11 1
+1-1 1
+.names c0 j0 n78
+01 1
+.names n80 x0 n79
+01 1
+.names d0 i c n80
+-00 1
+0-0 1
+.names n82 v s0
+01 0
+.names l0 n67 b0 n82
+-01 1
+0-0 1
+.names n82 v t0
+00 0
+.names c0 b0 l0 v0
+-00 1
+0-0 1
+.names n89 n86 w0
+01 1
+.names o n87 d n86
+-11 1
+0-1 1
+.names r p n88 n87
+-11 1
+0-1 1
+.names f0 h0 n88
+00 1
+.names z a n90 n89
+-01 1
+1-1 1
+.names z o m0 n90
+-11 1
+0-1 1
+.names n92 l b0 y0
+111 1
+.names a0 i0 n92
+11 1
+.names n74 n98 n94 z0
+--0 1
+01- 1
+.names n96 n95 n97 n94
+-00 1
+0-0 1
+.names n69 n70 n95
+01 1
+.names x0 h n96
+01 1
+.names g b0 l0 n97
+111 1
+.names e x0 f n98
+011 1
+.names n100 n101 a1
+01 1
+.names b0 e n77 n100
+-01 1
+0-1 1
+.names n102 j e0 n101
+000 1
+.names x0 i d0 n102
+111 1
+.names n108 n66 n104 d1
+-00 1
+0-0 1
+.names n105 n107 n104
+01 1
+.names b0 n106 n75 n105
+-11 1
+0-1 1
+.names k0 j0 c0 n106
+-01 1
+0-1 1
+.names e n x0 n107
+001 1
+.names s t u n108
+001 1
+.names n92 m b0 e1
+111 1
+.names x n111 f1
+01 1
+.names b w n111
+11 1
+.names y x n111 g1
+011 1
+.names j0 n114 n101 j1
+-11 1
+0-1 1
+.names c0 i b0 n114
+-00 1
+1-0 1
+.names v0 u0
+0 1
+.names n66 n108 n104 c1
+--1 1
+11- 1
+.names n100 n101 h1
+01 0
+.names n100 n101 i1
+01 1
+.end

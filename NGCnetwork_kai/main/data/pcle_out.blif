@@ -1,0 +1,68 @@
+# Benchmark "pcle_cl" written by ABC on Thu Feb  1 19:32:19 2018
+.model pcle_cl
+.inputs a b c d e f g h i j k l m n o p q r s
+.outputs t u v w x y z a0 b0
+.names n31 n34 s t
+111 1
+.names n32 q r n31
+111 1
+.names n33 o p n32
+111 1
+.names l m n n33
+111 1
+.names i k j n34
+001 1
+.names l n34 n36 u
+--1 1
+01- 1
+.names a i n36
+11 1
+.names b i n38 v
+--1 1
+11- 1
+.names l m n34 n38
+011 1
+101 1
+.names c i n40 w
+--1 1
+11- 1
+.names n41 n n34 n40
+011 1
+101 1
+.names l m n41
+11 1
+.names d i n43 x
+--1 1
+11- 1
+.names n33 o n34 n43
+011 1
+101 1
+.names e i n45 y
+--1 1
+11- 1
+.names n46 p n34 n45
+011 1
+101 1
+.names n33 o n46
+11 1
+.names f i n48 z
+--1 1
+11- 1
+.names n32 q n34 n48
+011 1
+101 1
+.names g i n50 a0
+--1 1
+11- 1
+.names n51 r n34 n50
+011 1
+101 1
+.names n32 q n51
+11 1
+.names h i n53 b0
+--1 1
+11- 1
+.names n31 s n34 n53
+011 1
+101 1
+.end

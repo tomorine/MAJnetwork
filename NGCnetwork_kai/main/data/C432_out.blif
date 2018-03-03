@@ -1,0 +1,213 @@
+# Benchmark "C432.iscas" written by ABC on Thu Feb  1 19:32:05 2018
+.model C432.iscas
+.inputs 1GAT(0) 4GAT(1) 8GAT(2) 11GAT(3) 14GAT(4) 17GAT(5) 21GAT(6) \
+ 24GAT(7) 27GAT(8) 30GAT(9) 34GAT(10) 37GAT(11) 40GAT(12) 43GAT(13) \
+ 47GAT(14) 50GAT(15) 53GAT(16) 56GAT(17) 60GAT(18) 63GAT(19) 66GAT(20) \
+ 69GAT(21) 73GAT(22) 76GAT(23) 79GAT(24) 82GAT(25) 86GAT(26) 89GAT(27) \
+ 92GAT(28) 95GAT(29) 99GAT(30) 102GAT(31) 105GAT(32) 108GAT(33) 112GAT(34) \
+ 115GAT(35)
+.outputs 223GAT(84) 329GAT(133) 370GAT(163) 421GAT(188) 430GAT(193) \
+ 431GAT(194) 432GAT(195)
+.names n46 n49 223GAT(84)
+11 0
+.names 108GAT(33) 102GAT(31) n47 n46
+-11 1
+0-1 1
+.names 43GAT(13) 37GAT(11) n48 n47
+-10 1
+0-0 1
+.names 50GAT(15) 56GAT(17) n48
+01 1
+.names n50 n52 n54 n49
+111 1
+.names 4GAT(1) 1GAT(0) n51 n50
+-10 1
+0-0 1
+.names 24GAT(7) 30GAT(9) n51
+01 1
+.names 17GAT(5) 11GAT(3) n53 n52
+-10 1
+0-0 1
+.names 76GAT(23) 82GAT(25) n53
+01 1
+.names 95GAT(29) 89GAT(27) n55 n54
+-10 1
+0-0 1
+.names 63GAT(19) 69GAT(21) n55
+01 1
+.names n57 n64 329GAT(133)
+11 0
+.names n58 n60 n62 n57
+000 1
+.names 47GAT(14) n59 n58
+01 1
+.names 37GAT(11) 223GAT(84) 43GAT(13) n59
+-01 1
+0-1 1
+.names 8GAT(2) n61 n60
+01 1
+.names 1GAT(0) 223GAT(84) 4GAT(1) n61
+-01 1
+0-1 1
+.names n63 99GAT(30) 95GAT(29) n62
+001 1
+.names 223GAT(84) 89GAT(27) n63
+11 1
+.names n65 n69 n73 n64
+111 1
+.names 34GAT(10) n66 n67 n65
+-00 1
+1-0 1
+.names 24GAT(7) 223GAT(84) 30GAT(9) n66
+-01 1
+0-1 1
+.names n68 112GAT(34) 108GAT(33) n67
+001 1
+.names n49 n46 102GAT(31) n68
+-01 1
+0-1 1
+.names 21GAT(6) n72 n70 n69
+-00 1
+1-0 1
+.names n71 86GAT(26) 82GAT(25) n70
+001 1
+.names n49 n46 76GAT(23) n71
+-01 1
+0-1 1
+.names 11GAT(3) 223GAT(84) 17GAT(5) n72
+-01 1
+0-1 1
+.names 60GAT(18) n74 n75 n73
+-00 1
+1-0 1
+.names 50GAT(15) 223GAT(84) 56GAT(17) n74
+-01 1
+0-1 1
+.names n76 73GAT(22) 69GAT(21) n75
+001 1
+.names n49 n46 63GAT(19) n76
+-01 1
+0-1 1
+.names n98 n83 n78 370GAT(163)
+011 0
+.names 27GAT(8) n82 n79 n78
+-00 1
+1-0 1
+.names 92GAT(28) n80 n79
+01 1
+.names 86GAT(26) 329GAT(133) n81 n80
+-01 1
+0-1 1
+.names n71 82GAT(25) n81
+01 1
+.names 21GAT(6) 329GAT(133) n72 n82
+-01 1
+0-1 1
+.names n84 n88 n92 n83
+111 1
+.names 66GAT(20) n87 n85 n84
+-00 1
+1-0 1
+.names n86 40GAT(12) n66 n85
+001 1
+.names n64 n57 34GAT(10) n86
+-01 1
+0-1 1
+.names 60GAT(18) 329GAT(133) n74 n87
+-01 1
+0-1 1
+.names 14GAT(4) n91 n89 n88
+-00 1
+1-0 1
+.names n90 53GAT(16) n59 n89
+001 1
+.names n64 n57 47GAT(14) n90
+-01 1
+0-1 1
+.names 8GAT(2) 329GAT(133) n61 n91
+-01 1
+0-1 1
+.names 115GAT(35) n96 n93 n92
+-00 1
+1-0 1
+.names n94 105GAT(32) n95 n93
+001 1
+.names n64 n57 99GAT(30) n94
+-01 1
+0-1 1
+.names n63 95GAT(29) n95
+01 1
+.names 112GAT(34) 329GAT(133) n97 n96
+-01 1
+0-1 1
+.names n68 108GAT(33) n97
+01 1
+.names 79GAT(24) n99 n98
+01 1
+.names 73GAT(22) 329GAT(133) n100 n99
+-01 1
+0-1 1
+.names n76 69GAT(21) n100
+01 1
+.names n111 430GAT(193) n118 421GAT(188)
+-10 1
+0-0 1
+.names n103 n107 430GAT(193)
+11 0
+.names n104 n105 n103
+00 1
+.names 66GAT(20) 370GAT(163) n87 n104
+-01 1
+0-1 1
+.names 53GAT(16) 370GAT(163) n106 n105
+-01 1
+0-1 1
+.names n90 n59 n106
+01 1
+.names n108 n109 n107
+00 1
+.names 27GAT(8) 370GAT(163) n82 n108
+-01 1
+0-1 1
+.names 40GAT(12) 370GAT(163) n110 n109
+-01 1
+0-1 1
+.names n86 n66 n110
+01 1
+.names n116 n117 n112 n111
+001 1
+.names n113 n114 n112
+00 1
+.names 115GAT(35) 370GAT(163) n96 n113
+-01 1
+0-1 1
+.names 105GAT(32) 370GAT(163) n115 n114
+-01 1
+0-1 1
+.names n94 n95 n115
+01 1
+.names 79GAT(24) 370GAT(163) n99 n116
+-01 1
+0-1 1
+.names 92GAT(28) 370GAT(163) n80 n117
+-01 1
+0-1 1
+.names 14GAT(4) 370GAT(163) n91 n118
+-01 1
+0-1 1
+.names n120 n122 n107 431GAT(194)
+001 0
+.names n104 n121 n116 n120
+011 1
+.names n105 n109 n121
+00 1
+.names n103 n117 n122
+11 1
+.names n120 n124 n125 432GAT(195)
+001 0
+.names n117 n114 n121 n124
+011 1
+.names n109 n105 n108 n125
+-00 1
+1-0 1
+.end

@@ -1,0 +1,55 @@
+# Benchmark "ADD6" written by ABC on Thu Feb  1 19:32:08 2018
+.model ADD6
+.inputs a0 a1 a2 a3 a4 a5 b0 b1 b2 b3 b4 b5
+.outputs s0 s1 s2 s3 s4 s5 s6
+.names a0 b0 s0
+01 1
+10 1
+.names n23 a1 b1 s1
+001 1
+010 1
+100 1
+111 1
+.names a0 b0 n23
+11 1
+.names n25 a2 b2 s2
+000 1
+011 1
+101 1
+110 1
+.names n23 a1 b1 n25
+-00 1
+0-0 1
+00- 1
+.names n27 a3 b3 s3
+000 1
+011 1
+101 1
+110 1
+.names n25 a2 b2 n27
+-00 1
+1-0 1
+10- 1
+.names n29 a4 b4 s4
+000 1
+011 1
+101 1
+110 1
+.names n27 a3 b3 n29
+-00 1
+1-0 1
+10- 1
+.names n31 a5 b5 s5
+000 1
+011 1
+101 1
+110 1
+.names n29 a4 b4 n31
+-00 1
+1-0 1
+10- 1
+.names n31 a5 b5 s6
+-11 1
+0-1 1
+01- 1
+.end

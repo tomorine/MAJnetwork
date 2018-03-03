@@ -1,0 +1,55 @@
+# Benchmark "pm1" written by ABC on Thu Feb  1 19:32:19 2018
+.model pm1
+.inputs a b c d e g h i j k l m n o p q
+.outputs r s t u v w x y z a0 b0 c0 d0
+.names b m n r
+000 0
+.names m n s
+01 0
+.names n34 n36 k t
+111 0
+.names n35 g h n34
+111 1
+.names i j n35
+11 1
+.names m n n36
+11 1
+.names n34 n36 k u
+011 0
+.names n39 s n40 x
+-01 1
+0-1 1
+.names c d e n39
+111 1
+.names b k n40
+11 1
+.names n42 n43 z
+01 0
+.names n39 k n n42
+111 1
+.names l a m n43
+011 1
+.names m n n45 a0
+001 1
+111 1
+.names l a n45
+01 1
+.names n47 n43 b0
+11 1
+.names n39 k n n47
+011 1
+.names b n47 n49 c0
+-11 1
+0-1 1
+.names n b n43 n49
+-11 1
+0-1 1
+.names k n45 n36 d0
+011 1
+.names p v
+0 1
+.names o w
+0 1
+.names q y
+0 1
+.end

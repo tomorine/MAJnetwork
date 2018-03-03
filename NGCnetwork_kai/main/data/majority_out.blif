@@ -1,0 +1,18 @@
+# Benchmark "traffic_cl" written by ABC on Thu Feb  1 19:32:18 2018
+.model traffic_cl
+.inputs a b c d e
+.outputs f
+.names n9 n11 d f
+--1 1
+01- 1
+.names b a n10 n9
+-00 1
+0-0 1
+.names c e n10
+11 1
+.names b a n12 n11
+-10 1
+1-0 1
+.names c e n12
+00 1
+.end
